@@ -88,13 +88,6 @@ const Footer = () => {
                 </Link>
               </span>
 
-              {/* <span>
-                {" "}
-                <Link to=" https://www.youtube.com/c/MuhibsTechDiary">
-                  <i class="ri-youtube-line"></i>
-                </Link>{" "}
-              </span> */}
-
               <span>
                 {" "}
                 <Link to="https://www.linkedin.com/in/ebrahim-shebl-0ab761276/">
